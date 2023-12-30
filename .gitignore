@@ -34,3 +34,6 @@ override.tf.json
 terraform.rc
 Key points
 *.exe*
+.terraform
+*.tfstate
+*.tfstate.backup
